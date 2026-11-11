@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "n_estimators": 150,
+    "subsample": 0.8,
+    "scale_pos_weight": 3.909983633387889,
+    "early_stopping_rounds": 20,
+    "seed": 3000,
+    "xgboost_version": "3.4.1"
+}
